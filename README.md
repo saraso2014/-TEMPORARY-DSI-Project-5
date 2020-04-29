@@ -1,48 +1,26 @@
 # DSI-Project-5
 ### Project Links
 
-[ERIC GIT]('https://github.com/ersingt')
+[ERIC GIT]
+'https://github.com/ersingt'
 
-[DEREJE GIT]('https://github.com/Dereje-workneh')
+[DEREJE GIT]: 'https://github.com/Dereje-workneh'
 
-[TODOIST]('https://todoist.com/app/#project%2F2234674673%2Ffull')
+[TODOIST]
+'https://todoist.com/app/#project%2F2234674673%2Ffull'
 
 # Topic Ideas
 
+## Top Ideas
 
-## Sara
-
-- Sentiment analysis of social media posts
-    - Source: twitter, tumblr?
-- Event listener on twitter streams for power outages / public data
-    - Source: twitter, public sites re:  power outages
-- EMS/Fire scanner to text analysis for neighborhoods in DC
-    - IBM watson audio file to text
-
-## Dereje
-
-- Market analysis for OTC medicine with COVID-19 (NSAIDs)
-
-- COVID-19 customer service ()
-    - hospitalization rates
-
-- COVID-19 and media
-    - fake news and real news
-    - Source: WHO twitter / Alex Jones twitter
-
-## Eric
-
-- Project 5: power outage
-    - Source: twitter, providers have pages with outages as they occur in RT
-    - GIS
+- **Topic 1**
+Predicting location of power outages / utility outages in real-time.
+    - Data Sources: twitter, public sites indicating outages
     
-- Project 11: misinformation / classification in social media post
-    - Source: social media posts as real and fake (twitter)
+- **Topic 2**
+Predicting location of EMS events in real-time (could tie into COVID-19)
+    - Data Sources: twitter, EMS/Fire scanner audio into IBM Watson into text
     
-- Project 13: slum identification / using advert data
-    - Source: FB, craigslist
-
-
-# Data Source Ideas:
-
-- 
+- **Topic 3**
+Market analysis of OTC medicine sales and commodities shortages (could tie into COVID-19)
+    - Data Source(s): drug store sale data for OTC, twitter
