@@ -1,5 +1,11 @@
 # DSI-Project-5
+### Project Links
 
+[ERIC GIT]('https://github.com/ersingt')
+
+[DEREJE GIT]('https://github.com/Dereje-workneh')
+
+[TODOIST]('https://todoist.com/app/#project%2F2234674673%2Ffull')
 
 # Topic Ideas
 
