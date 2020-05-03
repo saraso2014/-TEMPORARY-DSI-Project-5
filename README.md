@@ -1,7 +1,9 @@
 # DSI Project 5
 #### Contributers
 
-Eric Schultz ([Github](https://github.com/eringt),[Email]()), Sara Soueidan ([Github](https://github.com/saraso2014)), and Dereje Workneh ([Github](https://github.com/Dereje-workneh))
+Eric Schultz: [Github](https://github.com/eringt), [Email]() 
+Sara Soueidan: [Github](https://github.com/saraso2014), [Email](saraesoueidan@gmail.com)
+Dereje Workneh: [Github](https://github.com/Dereje-workneh), [Email](derejeabera05@gmail.com)
 
 #### Problem Statement
 
