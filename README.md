@@ -12,6 +12,18 @@ Dereje Workneh: [Github](https://github.com/Dereje-workneh), [Email](derejeabera
 Identifying utility outages in DC or DMV metro area by analyzing various real-time data sources in time series.
 
 
+### Work Breakdown Structure
+
+- Scraping (Sara)
+- API (Sara)
+- EDA (Dereje)
+- Modeling (All)
+- Static Viz (Dereje)
+- README (All)
+- Dynamic Viz (Eric)
+- GIS (Eric)
+
+
 #### Potential Data Sources
 
 - [Twitter Scrape Rules](https://developer.twitter.com/en/docs/tweets/post-and-engage/overview)
